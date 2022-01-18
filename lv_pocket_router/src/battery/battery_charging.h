@@ -1,0 +1,8 @@
+#ifndef LV_POCKET_ROUTER_SRC_BATTERY_BATTERY_CHARGING_H_
+#define LV_POCKET_ROUTER_SRC_BATTERY_BATTERY_CHARGING_H_
+
+#include "../../../lvgl/lvgl.h"
+
+void create_charge_mode();
+
+#endif /* LV_POCKET_ROUTER_SRC_BATTERY_BATTERY_CHARGING_H_ */
